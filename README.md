@@ -20,3 +20,7 @@ and this text is under deployment.
 
 
 ## How to Contribute
+
+## Copyright
+
+2020 Git.Training
