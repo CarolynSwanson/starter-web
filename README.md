@@ -21,6 +21,8 @@ and this text is under deployment.
 
 ## How to Contribute
 
+Please for this repository and then issue Pull
+
 ## Copyright
 
 2020 Git.Training
