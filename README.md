@@ -3,6 +3,7 @@
 
 This is a simple website project for showing how to use GIT and Github together.
 But we are working hard to make it less simple.
+Adding a line from myfeature branch.  
 
 ## Introduction
 
